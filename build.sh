@@ -1,1 +1,1 @@
-pyinstaller --onefile translate.py
+pyinstaller --onefile screenshot-translator.py
