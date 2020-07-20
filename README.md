@@ -18,4 +18,6 @@ dist/screenshot-translator ~/EXAMPLE_IMAGE.png --src chi_tra # for chinese
 ### Automator
 This program doesn't take the screenshots for you.  Mac Automator does, though.  Set something up like this:
 
+See [my blog post on setup](https://aaronchan.dev/blog/diy-screenshot-translator)
+
 Running this app will take a screenshot and pipe it into screenshot-translator, then display it in an alert box.  Enjoy!
