@@ -4,7 +4,7 @@ chardet==3.0.4
 googletrans==2.4.0
 idna==2.9
 macholib==1.14
-Pillow==7.1.2
+Pillow==9.0.1
 pinyin==0.4.0
 PyInstaller==3.6
 pytesseract==0.3.4
